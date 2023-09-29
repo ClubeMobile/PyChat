@@ -5,9 +5,9 @@ Criação de Sites e Sistemas com Python | Jornada Python
 
 Flet -> Integra o Python com o Flutter!
 
-Instalar o Flet
+Instalar o Flet:
 
-  pip install flet
+  	* pip install flet
 
   ![pip_install_flet](https://github.com/ClubeMobile/PyChat/assets/13254540/e6699ede-182c-45f5-8d77-348b5ea2679f)
 
