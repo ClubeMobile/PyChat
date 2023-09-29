@@ -1,7 +1,7 @@
 # PyChat
-Criação de Sites e Sistemas com Python | Jornada Python
-
 O PyChat é um Chat ao vivo no estilo Whatzap!
+
+Criação de Sites e Sistemas com Python | Jornada Python
 
 Flet -> Integra o Python com o Flutter!
 
