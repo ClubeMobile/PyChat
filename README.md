@@ -13,12 +13,19 @@ Instalar o Flet:
 
 
 Passos:
+
 1 Importar o flet
+
 	import flet as ft
+ 
 2 Criar função que gerencia a sua página
+
 	Main()
+ 
 3 rodar o Site
+
 	ft.app()
+ 
 
 
  Prints da página executada:
